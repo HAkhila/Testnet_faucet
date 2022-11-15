@@ -1,0 +1,22 @@
+.App{
+  align-items: center;
+  justify-content: center;
+  height: 1096px;
+  width: 1636;
+}
+
+@font-face {
+
+  font-family:Imported ;
+
+  src: url(./fonts/Gilroy/Gilroy-SemiBold.ttf);
+
+}
+
+
+
+#root{
+
+  font-family: Imported;
+
+}
